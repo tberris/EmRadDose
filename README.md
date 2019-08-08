@@ -5,7 +5,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Methods and step-by-step algorithms for emergency dose estimation have been published and relevant sources are provided below (see references section). It is clear however, that even the implementation of simple algorithms, can be challenging in stressful emergency situations. In stress, the mere task of looking up the proper coefficients for dose calculations increases the probability for error. Access to needed information may also be hampered in case of emergency.</p>
+<p>Methods and step-by-step algorithms for emergency dose estimation have been published and relevant sources are provided below (see references in <a rel="noreferrer noopener" aria-label="webpage (opens in a new tab)" href="https://tberris.com/emergency-radiation-dose-assessment-app" target="_blank">https://tberris.com/emergency-radiation-dose-assessment-app</a>). It is clear however, that even the implementation of simple algorithms, can be challenging in stressful emergency situations. In stress, the mere task of looking up the proper coefficients for dose calculations increases the probability for error. Access to needed information may also be hampered in case of emergency.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -21,7 +21,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>EmRadDose is available for free download on Google Play Store: https://play.google.com/store/apps/details?id=appinventor.ai_theocharisberris.Emergency_Radiation_Dose_Assessment_V1_0</p>
+<p>EmRadDose is available for <a rel="noreferrer noopener" aria-label="download app (opens in a new tab)" href="https://play.google.com/store/apps/details?id=appinventor.ai_theocharisberris.Emergency_Radiation_Dose_Assessment_V1_0" target="_blank">free download</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -29,5 +29,5 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>More information about EmRadDose can be found at: <a rel="noreferrer noopener" aria-label="Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) (opens in a new tab)" href="https://tberris.com/emergency-radiation-dose-assessment-app" target="_blank">https://tberris.com/emergency-radiation-dose-assessment-app</a></p>
+<p>More information about EmRadDose can be found at: <a rel="noreferrer noopener" aria-label="webpage (opens in a new tab)" href="https://tberris.com/emergency-radiation-dose-assessment-app" target="_blank">https://tberris.com/emergency-radiation-dose-assessment-app</a></p>
 <!-- /wp:paragraph -->
