@@ -17,11 +17,11 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>EmRadDose is an open source tool and it is provided <strong>free of charge</strong> under the "<a rel="noreferrer noopener" aria-label="Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) (opens in a new tab)" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</a>" license. </p>
+<p>EmRadDose is an open source tool and it is provided <strong>free of charge</strong> under the GNU General Public License v3.0.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>EmRadDose is available for free download on Google Play Store:</p>
+<p>EmRadDose is available for free download on Google Play Store: https://play.google.com/store/apps/details?id=appinventor.ai_theocharisberris.Emergency_Radiation_Dose_Assessment_V1_0</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
