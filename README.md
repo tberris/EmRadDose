@@ -5,7 +5,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Methods and step-by-step algorithms for emergency dose estimation have been published and relevant sources are provided below (see references in <a rel="noreferrer noopener" aria-label="webpage (opens in a new tab)" href="https://tberris.com/emergency-radiation-dose-assessment-app" target="_blank">https://tberris.com/emergency-radiation-dose-assessment-app</a>). It is clear however, that even the implementation of simple algorithms, can be challenging in stressful emergency situations. In stress, the mere task of looking up the proper coefficients for dose calculations increases the probability for error. Access to needed information may also be hampered in case of emergency.</p>
+<p>Methods and step-by-step algorithms for emergency dose estimation have been published and relevant sources are provided (see references in <a rel="noreferrer noopener" aria-label="webpage (opens in a new tab)" href="https://tberris.com/emergency-radiation-dose-assessment-app" target="_blank">https://tberris.com/emergency-radiation-dose-assessment-app</a>). It is clear however, that even the implementation of simple algorithms, can be challenging in stressful emergency situations. In stress, the mere task of looking up the proper coefficients for dose calculations increases the probability for error. Access to needed information may also be hampered in case of emergency.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
